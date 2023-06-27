@@ -1,8 +1,8 @@
 <?php
 
-namespace Figures;
+namespace figures;
 
-class Figure
+final class Figure
 {
   protected $color;
 
